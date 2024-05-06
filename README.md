@@ -1,6 +1,6 @@
 <h3 align="center">CLI Digital Clock</h3>
 <p align="center">
-A simple Command Line Interface (CLI) digital clock implemented in Python.
+A simple CLI digital clock implemented in Python.
 <br/>
 <br/>
 <br/>
