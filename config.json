@@ -1,5 +1,5 @@
 {
     "y_len":5,
-    "dig_gap":3,
-    "update_interval" : 1
+    "dig_gap":4,
+    "update_interval" : 0.5
 }
